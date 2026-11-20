@@ -1,0 +1,1846 @@
+{
+  "title": "Militarisation & Freedom",
+  "subtitle": "A statewise source atlas",
+  "compiled": "20 November 2026",
+  "method": {
+    "scope": "Consolidates both research reports in this conversation: cross-party military-policy comparisons, Savarkar’s programme, named service testimony, INA trials and the 1946 service unrest.",
+    "geography": "Grouped chiefly by the place of an event or activity. Modern names aid navigation; historical provinces, cross-border Punjab and national/overseas material are labelled explicitly. A record can appear in more than one region without becoming a second claim.",
+    "verification": "Statuses reflect what was inspected during the earlier research. An archive reference located through scholarship is not an inspected original. External links can move or require registration.",
+    "limits": "Indexed searches included English and Marathi, Hindi, Bengali, Tamil, Telugu, Kannada, Gujarati, Punjabi, Malayalam and Urdu terms across the research. This is not an exhaustive survey of undigitised vernacular archives.",
+    "causation": "Stated purpose, actual recruitment, individual motivation, later anti-colonial conduct and the causes of independence are separate propositions.",
+    "exclusions": "The K. N. Rao letter is retained only as a sidelined research-trail entry, respecting the instruction to leave it aside. Unverified claims are documented as open questions, not adopted as fact."
+  },
+  "sources": [
+    {
+      "id": "hrd",
+      "code": "S01",
+      "title": "Hindu Rashtra Darshan",
+      "author": "V. D. Savarkar",
+      "kind": "Collected primary speeches",
+      "language": "English",
+      "url": "https://www.savarkar.org/en/pdfs/hindu-rashtra-darshan-en-v002.pdf",
+      "locator": "Madura address, December 1940; 130-page PDF edition.",
+      "note": "Read during research. Authorial advocacy; recruitment statistics are not independently audited."
+    },
+    {
+      "id": "historic",
+      "code": "S02",
+      "title": "Historic Statements",
+      "author": "V. D. Savarkar",
+      "kind": "Collected primary statements",
+      "language": "English",
+      "url": "https://savarkar.org/en/pdfs/historic_statements_by_savarkar.v001.pdf",
+      "locator": "1967 collection; statements dated 6 October 1941, 8 and 23 April 1942, 24 January 1950.",
+      "note": "Dated authorial statements in a later compilation; distinguish printed pages from PDF pages."
+    },
+    {
+      "id": "joshi",
+      "code": "S03",
+      "title": "The Indian Communist Party: Its Policy and Work in the War of Liberation",
+      "author": "P. C. Joshi",
+      "kind": "Contemporary primary pamphlet",
+      "language": "English",
+      "url": "https://www.marxists.org/subject/india/cpi/42-joshi-war-liberation.pdf",
+      "locator": "London: Communist Party of Great Britain, 1942; printed pp. 22–23.",
+      "note": "Scanned recruitment and Home Guards pages inspected during research."
+    },
+    {
+      "id": "ashraf",
+      "code": "S04",
+      "title": "Dr. K. M. Ashraf’s Letter to Syt. Kripalani",
+      "author": "K. M. Ashraf",
+      "kind": "Contemporary primary letter",
+      "language": "English",
+      "url": "https://www.marxists.org/subject/india/cpi/joshi-reply-1/joshi-1-letter-jbk.pdf",
+      "locator": "Bombay, 27 November 1945; accompanying Communist Reply to Congress Working Committee’s Charges.",
+      "note": "Facsimile of formal submission on behalf of communist AICC members."
+    },
+    {
+      "id": "charge",
+      "code": "S05",
+      "title": "Congress charge sheet to Sardesai",
+      "author": "J. B. Kripalani / Congress",
+      "kind": "Contemporary primary charge sheet",
+      "language": "English",
+      "url": "https://www.marxists.org/subject/india/cpi/joshi-reply-1/joshi-1-chargesheet.pdf",
+      "locator": "21 September 1945.",
+      "note": "An adversarial allegation to be read alongside the communist reply."
+    },
+    {
+      "id": "ambedkar",
+      "code": "S06",
+      "title": "Mahars Have Been Martial People",
+      "author": "B. R. Ambedkar",
+      "kind": "Newspaper letter in government collected works",
+      "language": "English",
+      "url": "https://www.drambedkarwritings.gov.in/upload/uploadfiles/files/Volume_17_01.pdf",
+      "locator": "Times of India, 18 June 1941; Writings and Speeches, vol. 17, part I, pp. 306–307.",
+      "note": "Government edition reproduces Ambedkar’s intervention and enlistment appeal."
+    },
+    {
+      "id": "ambedkarText",
+      "code": "S07",
+      "title": "Writings and Speeches, volume 17, part I — transcription",
+      "author": "B. R. Ambedkar",
+      "kind": "Access copy of collected primary text",
+      "language": "English",
+      "url": "https://studylib.net/doc/27131194/volume-17-01",
+      "locator": "Same letter, pp. 306–307.",
+      "note": "Readable access copy; prefer government facsimile for quotation."
+    },
+    {
+      "id": "nehruCripps",
+      "code": "S08",
+      "title": "The Congress and the Cripps Offer",
+      "author": "Jawaharlal Nehru",
+      "kind": "Contemporary primary statement",
+      "language": "English",
+      "url": "https://nehruarchive.in/documents/the-congress-and-the-cripps-offer-12-april-1942-j7d5z",
+      "locator": "12 April 1942; Selected Works, first series, vol. 12, pp. 213–227.",
+      "note": "Retain the national-government and political-control conditions."
+    },
+    {
+      "id": "nehruLucknow",
+      "code": "S09",
+      "title": "Prepare to Face the Challenge",
+      "author": "Jawaharlal Nehru",
+      "kind": "Contemporary primary speech",
+      "language": "English",
+      "url": "https://nehruarchive.in/documents/prepare-to-face-the-challenge-31-may-1942-py96y",
+      "locator": "Lucknow, 31 May 1942; Selected Works, first series, vol. 12, pp. 333–338.",
+      "note": "Specific argument for arms linked with freedom."
+    },
+    {
+      "id": "nehruArmy",
+      "code": "S10",
+      "title": "Struggle—Eternal Struggle",
+      "author": "Jawaharlal Nehru",
+      "kind": "Contemporary primary speech",
+      "language": "English",
+      "url": "https://nehruarchive.in/documents/struggle-eternal-struggle-1-august-1942-2dwqe",
+      "locator": "Allahabad, 1 August 1942; Selected Works, first series, vol. 12, pp. 426–427.",
+      "note": "Collection cites The Hindu, 3 August, and Bombay Chronicle, 4 August 1942."
+    },
+    {
+      "id": "azad",
+      "code": "S11",
+      "title": "To Stafford Cripps",
+      "author": "Abul Kalam Azad; drafted by Nehru",
+      "kind": "Contemporary primary letter",
+      "language": "English",
+      "url": "https://nehruarchive.in/documents/to-stafford-cripps-10-april-1942-ynx45",
+      "locator": "10 April 1942; Selected Works, vol. 12, pp. 202–208; Transfer of Power I, pp. 726–730.",
+      "note": "Congress negotiating position, not merely a private preference."
+    },
+    {
+      "id": "rajaji",
+      "code": "S12",
+      "title": "Statement on M. C. Rajah and Basheer Ahmed Sayeed’s Resolutions",
+      "author": "C. Rajagopalachari",
+      "kind": "Contemporary statement in collected works",
+      "language": "English",
+      "url": "https://dokumen.pub/selected-works-of-c-rajagopalachari-vol-vi-193639-1.html",
+      "locator": "The Hindu, 29 September 1937; Selected Works VI, pp. 209–212, item 140.",
+      "note": "Personal support for military education; qualifications and withdrawal request retained."
+    },
+    {
+      "id": "rajajiPublisher",
+      "code": "S13",
+      "title": "Selected Works catalogue",
+      "author": "Orient BlackSwan",
+      "kind": "Bibliographic corroboration",
+      "language": "English",
+      "url": "https://www.orientblackswan.com/pdfs/downloads/PS_PA_PP_2024-25.pdf",
+      "locator": "Publisher catalogue, 2024–25.",
+      "note": "Bibliographic provenance for the Rajagopalachari collection, not evidence of the historical claim."
+    },
+    {
+      "id": "rajaji1942",
+      "code": "S14",
+      "title": "Note on the Indian Background",
+      "author": "Nehru collection editors",
+      "kind": "Editorial lead to contemporary reporting",
+      "language": "English",
+      "url": "https://nehruarchive.in/documents/note-on-the-indian-background-11-may-1942-419vv",
+      "locator": "11 May 1942; footnote 4 identifies Rajaji’s 4 May press conference.",
+      "note": "Original newspaper report still desirable before quoting exact words."
+    },
+    {
+      "id": "khare",
+      "code": "S15",
+      "title": "Promotion of Rifle Training",
+      "author": "N. B. Khare, Lok Sabha",
+      "kind": "Primary retrospective parliamentary testimony",
+      "language": "English",
+      "url": "https://eparlib.sansad.in/bitstream/123456789/897791/1/01_VI_05-03-1954_p48_p65_PII.pdf#page=9",
+      "locator": "5 March 1954, cols. 1335–1336; PDF p. 9.",
+      "note": "Khare recalls his 1937–38 Congress premiership in the Central Provinces and Berar."
+    },
+    {
+      "id": "khareLetter",
+      "code": "S16",
+      "title": "A Subaltern Fascism",
+      "author": "Kannan Srinivasan",
+      "kind": "Scholarly transcription / archival lead",
+      "language": "English",
+      "url": "https://kannansrinivasan.org/wp-content/uploads/2013/04/A-subaltern-fascism.pdf",
+      "locator": "Printed pp. 112–113, note 54: Savarkar Papers, NMML, first instalment, file 2, March 1937–May 1939.",
+      "note": "Savarkar’s 1 July 1938 letter to Khare located through scholarship; original uninspected."
+    },
+    {
+      "id": "gandhiSpeech",
+      "code": "S17",
+      "title": "Speech at Nadiad",
+      "author": "M. K. Gandhi",
+      "kind": "Contemporary primary speech",
+      "language": "English; Gujarati original",
+      "url": "https://www.gandhipedia150.in/static/data/highlighted_pdfs_output/satyagraha_volume14_book_303.pdf",
+      "locator": "21 June 1918; CWMG original vol. 14, pp. 435–439, especially p. 438; Gujarati publication 7 July 1918.",
+      "note": "First World War precedent, not endorsement of Savarkar’s later scheme."
+    },
+    {
+      "id": "gandhiAuto",
+      "code": "S18",
+      "title": "Recruiting Campaign",
+      "author": "M. K. Gandhi",
+      "kind": "Primary retrospective autobiography",
+      "language": "English",
+      "url": "https://www.mkgandhi.org/autobio/chap151.php",
+      "locator": "An Autobiography, part V, chapter 27.",
+      "note": "Gandhi’s account of recruitment with Vallabhbhai Patel and colleagues."
+    },
+    {
+      "id": "gandhiHindi",
+      "code": "S19",
+      "title": "सैनिक-भरतीकी अपील",
+      "author": "M. K. Gandhi",
+      "kind": "Collected primary appeal in translation",
+      "language": "Hindi; translated from Gujarati",
+      "url": "https://hi.wikisource.org/wiki/पृष्ठ:सम्पूर्ण_गाँधी_वांग्मय_Sampurna_Gandhi,_vol._14.pdf/४५४",
+      "locator": "22 June 1918; सम्पूर्ण गांधी वाङ्मय, vol. 14, printed p. 422 onward.",
+      "note": "Vernacular access route; translation is not the original Gujarati printing."
+    },
+    {
+      "id": "aurobindo",
+      "code": "S20",
+      "title": "Autobiographical Notes and Other Writings of Historical Interest",
+      "author": "Sri Aurobindo",
+      "kind": "Primary retrospective account",
+      "language": "English",
+      "url": "https://sri-aurobindo.co.in/workings/sa/37_36/autobiographica_notes_36.pdf#page=82",
+      "locator": "Complete Works 36, pp. 65–66; PDF pp. 82–83; written 7 November 1946, revised/published 1948.",
+      "note": "Former nationalist figure, withdrawn from active Congress politics."
+    },
+    {
+      "id": "ashram",
+      "code": "S21",
+      "title": "Sri Aurobindo’s writings",
+      "author": "Sri Aurobindo Ashram",
+      "kind": "Official bibliographic reference",
+      "language": "English",
+      "url": "https://www.sriaurobindoashram.org/sriaurobindo/writings.php",
+      "locator": "Official description of the collected writings.",
+      "note": "Supports edition provenance."
+    },
+    {
+      "id": "iwm",
+      "code": "S22",
+      "title": "Indian Movietone News No. 9",
+      "author": "Imperial War Museums",
+      "kind": "Contemporary audiovisual record and catalogue",
+      "language": "English",
+      "url": "https://film.iwmcollections.org.uk/record/35653",
+      "locator": "INR 9, circulating by February 1943; Roy at Lucknow and Savarkar at Kanpur.",
+      "note": "Government-sponsored newsreel; distinguish filmed banner from personal verbatim speech."
+    },
+    {
+      "id": "faizGazette",
+      "code": "S23",
+      "title": "1945 honours supplement",
+      "author": "The London Gazette",
+      "kind": "Contemporary official service record",
+      "language": "English",
+      "url": "https://www.thegazette.co.uk/London/issue/36866/supplement/14/data.pdf",
+      "locator": "Supplement 36866, p. 14.",
+      "note": "Lists Faiz as Captain, temporary Major, Indian Army."
+    },
+    {
+      "id": "faizInterview",
+      "code": "S24",
+      "title": "Interview with I. A. Rehman",
+      "author": "Faiz Ahmed Faiz",
+      "kind": "Primary retrospective interview",
+      "language": "English",
+      "url": "https://herald.dawn.com/news/amp/1153696",
+      "locator": "Originally Herald, March 1984.",
+      "note": "Personal acknowledgement of joining the army; no Savarkar attribution established."
+    },
+    {
+      "id": "written",
+      "code": "S25",
+      "title": "Written Statement of Savarkar",
+      "author": "V. D. Savarkar",
+      "kind": "Primary defence testimony",
+      "language": "English",
+      "url": "https://savarkar.org/en/encyc/2017/5/28/Written-Statement-of-Savarkar.html",
+      "locator": "1948 statement, section 10: Apte, Godse and their correspondence.",
+      "note": "Interested defence testimony; rifle-club account needs external corroboration."
+    },
+    {
+      "id": "gould",
+      "code": "S26",
+      "title": "Hindu Militarism and Partition in 1940s United Provinces",
+      "author": "William Gould",
+      "kind": "Secondary scholarship locating primary records",
+      "language": "English",
+      "url": "https://eprints.whiterose.ac.uk/138343/3/Hindu%20militarism%20and%20partition%20checked%20VJS.pdf",
+      "locator": "South Asia 42:1 (2019); UP police abstracts, Tandon Papers and volunteer reports.",
+      "note": "Use as an archive-finding aid; cited originals not personally authenticated here."
+    },
+    {
+      "id": "gouldPublished",
+      "code": "S27",
+      "title": "Hindu Militarism and Partition — published article",
+      "author": "William Gould",
+      "kind": "Secondary scholarship / notes",
+      "language": "English",
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/00856401.2019.1554739?scroll=top&tab=permissions",
+      "locator": "Especially note 70 for Parthasarathy, 22 June 1947.",
+      "note": "Same scholarly work as repository manuscript."
+    },
+    {
+      "id": "working",
+      "code": "S28",
+      "title": "Discussions of the Working Committee on War Resolution",
+      "author": "Congress Working Committee",
+      "kind": "Contemporary primary minutes",
+      "language": "English",
+      "url": "https://nehruarchive.in/documents/discussions-of-the-working-committee-on-war-resolution-27-april-1942-wqlz1",
+      "locator": "27 April 1942.",
+      "note": "Includes Achyut Patwardhan’s warning against unconditional cooperation."
+    },
+    {
+      "id": "bose",
+      "code": "S29",
+      "title": "The Indian Struggle, part II",
+      "author": "Subhas Chandra Bose",
+      "kind": "Primary authorial account",
+      "language": "English",
+      "url": "https://hindustanbooks.com/books/indian_struggle/indian-struggle-2.pdf",
+      "locator": "Account of the 1940 Savarkar meeting.",
+      "note": "Critical account of the meeting; does not authenticate the circulated June 1944 broadcast."
+    },
+    {
+      "id": "nai",
+      "code": "S30",
+      "title": "Congress Affairs 40–42",
+      "author": "Sardar Patel Papers; author of note uncertain",
+      "kind": "Contemporary archival document",
+      "language": "English",
+      "url": "https://abhilekh-patal.in/Category/ItemDetails/ItemDetails?itemId=95cefe21-4e09-4231-8d89-7f82046e6bc9",
+      "locator": "NAI PP_000000005413, viewer pp. 11–12; Bombay, 13 August 1940.",
+      "note": "Images inspected. Do not assign authorship to Lumley or date to Cripps’s 1942 mission without more evidence."
+    },
+    {
+      "id": "naiViewer",
+      "code": "S31",
+      "title": "Congress Affairs 40–42 — document viewer",
+      "author": "National Archives of India",
+      "kind": "Primary scan access",
+      "language": "English",
+      "url": "https://abhilekh-patal.in/Category/itemdetails/ReadContent?itemId=95cefe21-4e09-4231-8d89-7f82046e6bc9",
+      "locator": "Viewer pp. 11–12; preceding interview document is separate.",
+      "note": "Same archival item as the catalogue entry."
+    },
+    {
+      "id": "gore",
+      "code": "S32",
+      "title": "अनुराधा गोरे यांचे सावरकरांविषयी निवेदन",
+      "author": "Anuradha Gore, reported by Hindusthan Post",
+      "kind": "Reported firsthand family testimony",
+      "language": "Marathi",
+      "url": "https://www.marathi.hindusthanpost.com/social/book-6-soneri-pane-inspired-research-hindus-history-anuradha-gore/",
+      "locator": "26 February 2025, Dadar commemorative event.",
+      "note": "Named family attribution; original audio and Captain Gore’s own testimony not authenticated."
+    },
+    {
+      "id": "harmony",
+      "code": "S33",
+      "title": "Anuradha Gore profile / interview",
+      "author": "Harmony; Anjali Rego",
+      "kind": "Family interview and profile",
+      "language": "English",
+      "url": "https://harmonyindia.org/wp-content/uploads/2019/05/Oct-2009.pdf",
+      "locator": "October 2009, p. 88.",
+      "note": "Corroborates family/service context and death at Kupwara in 1995; does not independently prove inspiration."
+    },
+    {
+      "id": "honour",
+      "code": "S34",
+      "title": "Captain Vinayak Gore",
+      "author": "Honourpoint",
+      "kind": "Secondary service biography",
+      "language": "English",
+      "url": "https://honourpoint.in/profile/captain-vinayak-gore-2/",
+      "locator": "Supplemental service details.",
+      "note": "Secondary corroboration, not an official service file or proof of motivation."
+    },
+    {
+      "id": "trial",
+      "code": "S35",
+      "title": "Two Historic Trials in Red Fort",
+      "author": "Moti Ram, editor",
+      "kind": "Contemporary trial compilation",
+      "language": "English",
+      "url": "https://archive.org/details/in.ernet.dli.2015.526939",
+      "locator": "1946 edition; statements in 7 December 1945 proceedings, pp. 110, 114–115, 118.",
+      "note": "Firsthand defendants’ accounts; no verified Savarkar enlistment attribution found."
+    },
+    {
+      "id": "trialText",
+      "code": "S36",
+      "title": "Two Historic Trials — OCR",
+      "author": "Internet Archive / Digital Library of India",
+      "kind": "OCR access copy",
+      "language": "English",
+      "url": "https://archive.org/stream/in.ernet.dli.2015.526939/2015.526939.Two-Historic_djvu.txt",
+      "locator": "Same trial compilation.",
+      "note": "Consult page images where OCR is ambiguous; access may be intermittent."
+    },
+    {
+      "id": "nehruINA",
+      "code": "S37",
+      "title": "The Triumph of the Indian People",
+      "author": "Jawaharlal Nehru",
+      "kind": "Contemporary primary foreword",
+      "language": "English",
+      "url": "https://nehruarchive.in/documents/the-triumph-of-the-indian-people-17-january-1946-dxedo7",
+      "locator": "17 January 1946; Selected Works, first series, vol. 14, pp. 371–373.",
+      "note": "National significance of the INA trials, not evidence of Savarkar-inspired recruitment."
+    },
+    {
+      "id": "nehruMenon",
+      "code": "S38",
+      "title": "To V. K. Krishna Menon",
+      "author": "Jawaharlal Nehru",
+      "kind": "Contemporary primary correspondence",
+      "language": "English",
+      "url": "https://nehruarchive.in/documents/to-v-k-krishna-menon-2-december-1945-9jwll1",
+      "locator": "2 December 1945.",
+      "note": "Discusses public response and government misjudgment of the INA trials."
+    },
+    {
+      "id": "attleeRIN",
+      "code": "S39",
+      "title": "Royal Indian Navy (Mutiny)",
+      "author": "Clement Attlee, House of Commons",
+      "kind": "Contemporary official parliamentary statement",
+      "language": "English",
+      "url": "https://api.parliament.uk/historic-hansard/commons/1946/feb/22/royal-indian-navy-mutiny",
+      "locator": "22 February 1946; HC Deb 419, cols. 1441–1443.",
+      "note": "Reports events as understood by the British government during the revolt."
+    },
+    {
+      "id": "attleeMarch",
+      "code": "S40",
+      "title": "India (Cabinet Mission)",
+      "author": "Clement Attlee, House of Commons",
+      "kind": "Contemporary official parliamentary speech",
+      "language": "English",
+      "url": "https://api.parliament.uk/historic-hansard/commons/1946/mar/15/india-cabinet-mission",
+      "locator": "15 March 1946; HC Deb 420, especially cols. 1420–1421.",
+      "note": "Acknowledges nationalism among wartime soldiers; no Savarkar attribution."
+    },
+    {
+      "id": "navy",
+      "code": "S41",
+      "title": "Under Two Ensigns: The Indian Navy, 1945–1950",
+      "author": "Rear Admiral Satyindra Singh",
+      "kind": "Official later history reproducing primary material",
+      "language": "English",
+      "url": "https://www.scribd.com/document/666554014/Under-Two-Ensigns-the-Indian-Navy-1945-1950",
+      "locator": "1986; Dutt pp. 70–72, Madan Singh pp. 72–73, Wavell pp. 79–80, Aruna pp. 80–82.",
+      "note": "Distinguish 1946 documents from interviews collected in 1982."
+    },
+    {
+      "id": "dutt",
+      "code": "S42",
+      "title": "Mutiny of the Innocents",
+      "author": "B. C. Dutt",
+      "kind": "Primary participant memoir",
+      "language": "English",
+      "url": "https://www.scribd.com/document/1023906130/Mutiny-of-the-Innocents-1nbsped-Compress",
+      "locator": "Bombay: Sindhu Publications, 1971; relevant memoir pp. 63–69 cited in naval history.",
+      "note": "Accessible preview incomplete. No verified Savarkar attribution established."
+    },
+    {
+      "id": "rinCommission",
+      "code": "S43",
+      "title": "Royal Indian Navy Commission of Enquiry, 1946",
+      "author": "British Library",
+      "kind": "Archival catalogue lead",
+      "language": "English",
+      "url": "https://searcharchives.bl.uk/catalog/040-000798054",
+      "locator": "IOR/L/MIL/17/9/379.",
+      "note": "Catalogue located; full original report and appendices not inspected."
+    },
+    {
+      "id": "auchinleck",
+      "code": "S44",
+      "title": "Military nationalism / INA archival references",
+      "author": "Gajendra Singh",
+      "kind": "Scholarly archive-finding aid",
+      "language": "English",
+      "url": "https://www.csas.ed.ac.uk/sites/csas/files/assets/pdf/WP20_Gajendra_Singh.pdf",
+      "locator": "Auchinleck minute, 12 February 1946: Rees Papers, MSS Eur/F274/95; letter 16 January: Transfer of Power VI, around p. 808.",
+      "note": "Original documents remain to be inspected directly."
+    },
+    {
+      "id": "garnett",
+      "code": "S45",
+      "title": "David Garnett on Savarkar",
+      "author": "David Garnett",
+      "kind": "Excerpt from a retrospective eyewitness memoir",
+      "language": "English",
+      "url": "https://savarkar.org/en/encyc/2017/5/22/David-Garnett-on-Savarkar.html",
+      "locator": "The Golden Echo (1953 UK / 1954 US editions).",
+      "note": "Earlier failed military-learning expedition; edition/page and chronological details need care."
+    },
+    {
+      "id": "raoLead",
+      "code": "S46",
+      "title": "Savarkar after 1937 — reproduced letter lead",
+      "author": "Rediscovering Savarkar",
+      "kind": "Unverified reproduction / sidelined lead",
+      "language": "English",
+      "url": "https://rediscoveringsavarkar.wordpress.com/2022/11/22/savarkar-after-1937/",
+      "locator": "Letter attributed to K. N. Rao, 31 May 1946.",
+      "note": "Set aside at the user’s request. Original archive authentication not completed; not used as proof."
+    }
+  ],
+  "records": [
+    {
+      "id": "savarkar-programme",
+      "regions": [
+        "Tamil Nadu"
+      ],
+      "date": "December 1940",
+      "year": 1940,
+      "title": "Savarkar’s immediate programme",
+      "people": [
+        "V. D. Savarkar"
+      ],
+      "topic": "Savarkar’s scheme",
+      "status": "Primary text inspected",
+      "claim": "The Madura programme sought Hindu entry into all three services, war-equipment skills, compulsory military education, Ram Sena organisation and qualified participation in civic guards.",
+      "limit": "Its Hindu political objectives and restrictions on civic-guard use must remain part of comparisons.",
+      "refs": [
+        "hrd"
+      ],
+      "locator": "Madura address, PDF p. 93",
+      "quote": "",
+      "place": "Madura / Madurai"
+    },
+    {
+      "id": "savarkar-purpose",
+      "regions": [
+        "Tamil Nadu"
+      ],
+      "date": "December 1940",
+      "year": 1940,
+      "title": "Participation for national capacity",
+      "people": [
+        "V. D. Savarkar"
+      ],
+      "topic": "Savarkar’s scheme",
+      "status": "Primary text inspected",
+      "claim": "Savarkar defended using Britain’s wartime manpower needs to acquire military and industrial capacity.",
+      "limit": "Stated intention does not independently establish recruitment totals or later conduct.",
+      "refs": [
+        "hrd"
+      ],
+      "locator": "PDF pp. 86–88, especially p. 87",
+      "quote": "with no intention of helping the British but of helping ourselves.",
+      "place": "Madura / Madurai"
+    },
+    {
+      "id": "savarkar-emancipation",
+      "regions": [
+        "National & overseas"
+      ],
+      "date": "6 October 1941",
+      "year": 1941,
+      "title": "Training linked to eventual emancipation",
+      "people": [
+        "V. D. Savarkar"
+      ],
+      "topic": "Savarkar’s scheme",
+      "status": "Primary text inspected",
+      "claim": "He urged modern military training and stronger Hindu representation, linking these with future freedom.",
+      "limit": "He also required military discipline, subject to a Hindu-honour qualification; no operational mutiny order.",
+      "refs": [
+        "historic"
+      ],
+      "locator": "PDF pp. 13–15; printed pp. 4–6",
+      "quote": "political emancipation too of our motherland in the long run.",
+      "place": ""
+    },
+    {
+      "id": "boards",
+      "regions": [
+        "Delhi",
+        "Maharashtra"
+      ],
+      "date": "6 October 1941",
+      "year": 1941,
+      "title": "Recruitment-assistance boards",
+      "people": [
+        "Ganpat Rai",
+        "L. B. Bhopatkar"
+      ],
+      "topic": "Savarkar’s scheme",
+      "status": "Primary text inspected",
+      "claim": "The statement names a northern board under Ganpat Rai at Delhi and a southern board under Bhopatkar at Poona.",
+      "limit": "Their applicant files would be valuable for tracing individual recruits.",
+      "refs": [
+        "historic"
+      ],
+      "locator": "PDF p. 14",
+      "quote": "",
+      "place": "Delhi and Poona / Pune"
+    },
+    {
+      "id": "ratnagiri",
+      "regions": [
+        "Maharashtra"
+      ],
+      "date": "15 November 1941",
+      "year": 1941,
+      "title": "Ratnagiri recruiting tour",
+      "people": [
+        "Prof. Phadke",
+        "V. B. Gogate",
+        "V. D. Savarkar"
+      ],
+      "topic": "Savarkar’s scheme",
+      "status": "Primary text inspected",
+      "claim": "Savarkar requested support for Phadke and Gogate’s district tour urging armed-service entry.",
+      "limit": "Identifies recruiters, not a verified list of recruits.",
+      "refs": [
+        "historic"
+      ],
+      "locator": "PDF p. 17",
+      "quote": "",
+      "place": "Ratnagiri"
+    },
+    {
+      "id": "postwar-strength",
+      "regions": [
+        "National & overseas"
+      ],
+      "date": "8 April 1942",
+      "year": 1942,
+      "title": "Capacity intended to outlast the war",
+      "people": [
+        "V. D. Savarkar"
+      ],
+      "topic": "Savarkar’s scheme",
+      "status": "Primary text inspected",
+      "claim": "He reaffirmed militarisation despite rejecting the Cripps proposals.",
+      "limit": "Anticipated national benefit is not evidence that his organisation caused subsequent revolts.",
+      "refs": [
+        "historic"
+      ],
+      "locator": "PDF pp. 35–36; printed pp. 26–28",
+      "quote": "an incalculable asset to the national strength even after the war.",
+      "place": ""
+    },
+    {
+      "id": "konkan-navy",
+      "regions": [
+        "Maharashtra"
+      ],
+      "date": "23 April 1942",
+      "year": 1942,
+      "title": "Konkan naval recruitment appeal",
+      "people": [
+        "V. D. Savarkar"
+      ],
+      "topic": "Savarkar’s scheme",
+      "status": "Primary text inspected",
+      "claim": "He urged naval recruiting assistance, particularly among Bhandari and Kharvi youth.",
+      "limit": "An appeal does not establish individual enlistment motives.",
+      "refs": [
+        "historic"
+      ],
+      "locator": "PDF pp. 37–38",
+      "quote": "",
+      "place": "Konkan"
+    },
+    {
+      "id": "republic-message",
+      "regions": [
+        "National & overseas"
+      ],
+      "date": "24 January 1950",
+      "year": 1950,
+      "title": "Retrospective credit to armed struggle",
+      "people": [
+        "V. D. Savarkar"
+      ],
+      "topic": "Freedom & military unrest",
+      "status": "Primary retrospective",
+      "claim": "His Republic message credited multiple streams, including the INA and military rebellion.",
+      "limit": "Post-independence interpretation, not a wartime forecast.",
+      "refs": [
+        "historic"
+      ],
+      "locator": "PDF pp. 155–156; printed pp. 141–142",
+      "quote": "",
+      "place": ""
+    },
+    {
+      "id": "joshi-recruitment",
+      "regions": [
+        "National & overseas"
+      ],
+      "date": "1942",
+      "year": 1942,
+      "title": "P. C. Joshi: enlist without awaiting national government",
+      "people": [
+        "P. C. Joshi"
+      ],
+      "topic": "Cross-party parallels",
+      "status": "Primary text inspected",
+      "claim": "Joshi explicitly advocated recruiting into the existing fighting forces and rejected postponement until a National Indian Army existed. He also proposed armed Home Guards, citizen training and industrial equipment.",
+      "limit": "Official communist policy within the anti-fascist people’s war; not endorsement of Savarkar’s Hindu programme.",
+      "refs": [
+        "joshi"
+      ],
+      "locator": "Printed pp. 22–23, Home Guards and Recruitment",
+      "quote": "We want to see the recruitment to the fighting forces thousand-fold.",
+      "place": "Pamphlet published in London; all-India programme"
+    },
+    {
+      "id": "ashraf-defence",
+      "regions": [
+        "Maharashtra"
+      ],
+      "date": "27 November 1945",
+      "year": 1945,
+      "title": "K. M. Ashraf formally adopts the communist defence",
+      "people": [
+        "K. M. Ashraf",
+        "P. C. Joshi",
+        "J. B. Kripalani"
+      ],
+      "topic": "Cross-party parallels",
+      "status": "Primary text inspected",
+      "claim": "Ashraf submitted Joshi’s defence of party policy on behalf of communist members of the AICC.",
+      "limit": "Organisational action, not merely a set of personal opinions; no endorsement of Savarkar established.",
+      "refs": [
+        "ashraf"
+      ],
+      "locator": "Letter to Kripalani, Bombay",
+      "quote": "",
+      "place": "Bombay / Mumbai"
+    },
+    {
+      "id": "congress-charges",
+      "regions": [
+        "National & overseas"
+      ],
+      "date": "21 September 1945",
+      "year": 1945,
+      "title": "Congress charges against communist wartime activity",
+      "people": [
+        "J. B. Kripalani",
+        "Sardesai"
+      ],
+      "topic": "Cross-party parallels",
+      "status": "Primary text inspected",
+      "claim": "The charge sheet alleged sustained communist propaganda for the war effort from June 1942.",
+      "limit": "An adversarial allegation; read alongside Ashraf and Joshi’s response.",
+      "refs": [
+        "charge"
+      ],
+      "locator": "Charge sheet addressed to Sardesai",
+      "quote": "",
+      "place": ""
+    },
+    {
+      "id": "ambedkar-battalion",
+      "regions": [
+        "Maharashtra"
+      ],
+      "date": "18 June 1941",
+      "year": 1941,
+      "title": "Ambedkar: Mahar recruitment and removal of exclusion",
+      "people": [
+        "B. R. Ambedkar"
+      ],
+      "topic": "Cross-party parallels",
+      "status": "Primary text inspected",
+      "claim": "Ambedkar’s newspaper letter describes his intervention with the Bombay Governor over Mahar exclusion, welcomes a battalion, urges enlistment and seeks continued postwar employment.",
+      "limit": "An independent recruitment and equality programme; Ambedkar was neither a Congress nor CPI spokesman.",
+      "refs": [
+        "ambedkar",
+        "ambedkarText"
+      ],
+      "locator": "Writings and Speeches 17/I, pp. 306–307",
+      "quote": "I appeal to the Mahars to take advantage of this opportunity",
+      "place": "Bombay Presidency"
+    },
+    {
+      "id": "nehru-citizen-army",
+      "regions": [
+        "National & overseas"
+      ],
+      "date": "12 April 1942",
+      "year": 1942,
+      "title": "Nehru: citizen army and small-arms manufacture",
+      "people": [
+        "Jawaharlal Nehru"
+      ],
+      "topic": "Conditional national defence",
+      "status": "Primary text inspected",
+      "claim": "Nehru proposed a citizen army or militia, much greater factory output and conversion of non-essential production to small arms.",
+      "limit": "His national-government conditions are integral; this does not establish support for colonial recruitment on Savarkar’s terms.",
+      "refs": [
+        "nehruCripps"
+      ],
+      "locator": "Selected Works, first series, vol. 12, pp. 213–227",
+      "quote": "Our conception was one of developing a citizen army or militia.",
+      "place": ""
+    },
+    {
+      "id": "nehru-arm-indians",
+      "regions": [
+        "Uttar Pradesh"
+      ],
+      "date": "31 May 1942",
+      "year": 1942,
+      "title": "Nehru at Lucknow: arms linked with freedom",
+      "people": [
+        "Jawaharlal Nehru"
+      ],
+      "topic": "Conditional national defence",
+      "status": "Primary text inspected",
+      "claim": "He argued that India required both freedom and arms, and that Britain should arm Indians for effective defence.",
+      "limit": "Conditional national defence, not an authenticated endorsement of Savarkar’s scheme.",
+      "refs": [
+        "nehruLucknow"
+      ],
+      "locator": "Selected Works 12, pp. 333–338",
+      "quote": "",
+      "place": "Lucknow"
+    },
+    {
+      "id": "nehru-peoples-army",
+      "regions": [
+        "Uttar Pradesh"
+      ],
+      "date": "1 August 1942",
+      "year": 1942,
+      "title": "Nehru: a people’s army and industrialisation",
+      "people": [
+        "Jawaharlal Nehru"
+      ],
+      "topic": "Conditional national defence",
+      "status": "Primary text inspected",
+      "claim": "His Allahabad speech proposed armed as well as nonviolent resistance to Japan.",
+      "limit": "Preserve the political context shortly before Quit India.",
+      "refs": [
+        "nehruArmy"
+      ],
+      "locator": "Selected Works 12, pp. 426–427",
+      "quote": "By raising a people’s army. By increasing production and industrialisation.",
+      "place": "Allahabad / Prayagraj"
+    },
+    {
+      "id": "azad-war",
+      "regions": [
+        "National & overseas"
+      ],
+      "date": "10 April 1942",
+      "year": 1942,
+      "title": "Azad: negotiated military cooperation",
+      "people": [
+        "Abul Kalam Azad",
+        "Jawaharlal Nehru",
+        "Stafford Cripps"
+      ],
+      "topic": "Conditional national defence",
+      "status": "Primary text inspected",
+      "claim": "Azad’s letter, drafted by Nehru, accepted continued operational command, existing military organisation and London’s higher strategy with Indian representation, alongside a national government organising popular defence.",
+      "limit": "A Congress negotiating position contingent on political responsibility.",
+      "refs": [
+        "azad"
+      ],
+      "locator": "Selected Works 12, pp. 202–208; Transfer of Power I, pp. 726–730",
+      "quote": "",
+      "place": ""
+    },
+    {
+      "id": "rajaji-militia",
+      "regions": [
+        "Tamil Nadu"
+      ],
+      "date": "29 September 1937",
+      "year": 1937,
+      "title": "Rajaji supports military education personally",
+      "people": [
+        "C. Rajagopalachari",
+        "Basheer Ahmed Sayeed",
+        "M. C. Rajah"
+      ],
+      "topic": "Cross-party parallels",
+      "status": "Primary text inspected",
+      "claim": "In the Madras militia discussion, Rajaji supported military education and national defence facilities as a personal view.",
+      "limit": "He sought withdrawal of the particular resolution, opposing provincial fragmentation and favouring a united Indian organisation.",
+      "refs": [
+        "rajaji",
+        "rajajiPublisher"
+      ],
+      "locator": "Selected Works VI, pp. 209–212, item 140; The Hindu, 29 September 1937",
+      "quote": "",
+      "place": "Madras / Chennai"
+    },
+    {
+      "id": "rajaji-war-army",
+      "regions": [
+        "Tamil Nadu"
+      ],
+      "date": "4 May 1942",
+      "year": 1942,
+      "title": "Rajaji’s wartime national-army proposal",
+      "people": [
+        "C. Rajagopalachari"
+      ],
+      "topic": "Conditional national defence",
+      "status": "Archive lead",
+      "claim": "An editorial footnote traces a press conference advocating national government and a national army collaborating with Britain.",
+      "limit": "Original newspaper report not inspected; do not quote exact wording from this reference alone.",
+      "refs": [
+        "rajaji1942"
+      ],
+      "locator": "Note on the Indian Background, footnote 4",
+      "quote": "",
+      "place": "Madras political context"
+    },
+    {
+      "id": "khare-rifles",
+      "regions": [
+        "Madhya Pradesh & Chhattisgarh"
+      ],
+      "date": "1937–1938; recalled 5 March 1954",
+      "year": 1937,
+      "title": "Khare’s school and college rifle clubs",
+      "people": [
+        "N. B. Khare"
+      ],
+      "topic": "Cross-party parallels",
+      "status": "Primary retrospective",
+      "claim": "Khare told the Lok Sabha that, as Congress premier of the Central Provinces and Berar, he permitted rifle clubs in schools and colleges.",
+      "limit": "His own retrospective testimony; later Mahasabha activity must not be labelled Congress action. Historical province also extended beyond these modern states.",
+      "refs": [
+        "khare"
+      ],
+      "locator": "Lok Sabha, 5 March 1954, cols. 1335–1336; PDF p. 9",
+      "quote": "permit freely the starting of rifle clubs in all the schools and colleges there.",
+      "place": "Central Provinces and Berar"
+    },
+    {
+      "id": "khare-savarkar",
+      "regions": [
+        "Maharashtra",
+        "Madhya Pradesh & Chhattisgarh"
+      ],
+      "date": "1 July 1938",
+      "year": 1938,
+      "title": "Savarkar congratulates Khare over rifle training",
+      "people": [
+        "V. D. Savarkar",
+        "N. B. Khare"
+      ],
+      "topic": "Savarkar’s scheme",
+      "status": "Archive lead",
+      "claim": "A scholarly transcription identifies Savarkar’s congratulatory letter concerning modern-rifle training.",
+      "limit": "Original letter uninspected. Savarkar praising Khare does not establish reciprocal endorsement.",
+      "refs": [
+        "khareLetter"
+      ],
+      "locator": "Savarkar Papers, NMML, first instalment, file 2, March 1937–May 1939; scholarly pp. 112–113, note 54",
+      "quote": "",
+      "place": ""
+    },
+    {
+      "id": "gandhi-training",
+      "regions": [
+        "Gujarat"
+      ],
+      "date": "21 June 1918",
+      "year": 1918,
+      "title": "Gandhi at Nadiad: wartime service and future strength",
+      "people": [
+        "M. K. Gandhi"
+      ],
+      "topic": "Earlier precedents",
+      "status": "Primary text inspected",
+      "claim": "Gandhi linked wartime help to military experience, discipline and the ability to defend India.",
+      "limit": "First World War precedent; not support for Savarkar’s later programme.",
+      "refs": [
+        "gandhiSpeech"
+      ],
+      "locator": "CWMG original vol. 14, pp. 435–439, especially p. 438",
+      "quote": "With that strength, we may even fight the Empire, should it play foul with us.",
+      "place": "Nadiad"
+    },
+    {
+      "id": "gandhi-patel-recruit",
+      "regions": [
+        "Gujarat"
+      ],
+      "date": "1918; later autobiographical account",
+      "year": 1918,
+      "title": "Gandhi and Patel organise actual recruitment",
+      "people": [
+        "M. K. Gandhi",
+        "Vallabhbhai Patel"
+      ],
+      "topic": "Earlier precedents",
+      "status": "Primary retrospective",
+      "claim": "Gandhi recounts consulting Patel and colleagues, holding recruiting meetings, registering volunteers and discussing accommodation with the Commissioner.",
+      "limit": "Demonstrates recruitment action in 1918, not Patel’s endorsement of the WWII Savarkar scheme.",
+      "refs": [
+        "gandhiAuto"
+      ],
+      "locator": "An Autobiography, part V, chapter 27",
+      "quote": "",
+      "place": "Kheda / Nadiad"
+    },
+    {
+      "id": "gandhi-vernacular",
+      "regions": [
+        "Gujarat"
+      ],
+      "date": "22 June 1918",
+      "year": 1918,
+      "title": "Hindi route to Gandhi’s recruiting appeal",
+      "people": [
+        "M. K. Gandhi"
+      ],
+      "topic": "Earlier precedents",
+      "status": "Primary text inspected",
+      "claim": "The recruiting appeal is available in Hindi translation from Gujarati in the collected works.",
+      "limit": "Distinguish translation, original publication and later digitisation.",
+      "refs": [
+        "gandhiHindi"
+      ],
+      "locator": "सम्पूर्ण गांधी वाङ्मय 14, printed p. 422 onward",
+      "quote": "",
+      "place": "Gujarat"
+    },
+    {
+      "id": "aurobindo-enlist",
+      "regions": [
+        "Puducherry"
+      ],
+      "date": "WWII; account written 7 November 1946",
+      "year": 1946,
+      "title": "Sri Aurobindo encourages army entry",
+      "people": [
+        "Sri Aurobindo"
+      ],
+      "topic": "Cross-party parallels",
+      "status": "Primary retrospective",
+      "claim": "His autobiographical account records war-fund contributions and advice to enter the army or assist the war effort.",
+      "limit": "A former nationalist/Congress figure who had withdrawn from active politics; no Savarkar endorsement established.",
+      "refs": [
+        "aurobindo",
+        "ashram"
+      ],
+      "locator": "Complete Works 36, pp. 65–66; revised/published 1948",
+      "quote": "",
+      "place": "Pondicherry / Puducherry"
+    },
+    {
+      "id": "roy-banner",
+      "regions": [
+        "Uttar Pradesh"
+      ],
+      "date": "By February 1943",
+      "year": 1943,
+      "title": "Roy’s conference links anti-fascism with future freedom",
+      "people": [
+        "M. N. Roy"
+      ],
+      "topic": "Cross-party parallels",
+      "status": "Primary text inspected",
+      "claim": "A contemporary newsreel records Roy presiding at the RDP conference in Lucknow, with a banner connecting today’s anti-fascist fight to tomorrow’s Indian freedom.",
+      "limit": "The quotation is a conference banner, not necessarily Roy’s spoken words. Government-sponsored film; Roy was an RDP leader, not a CPI spokesman.",
+      "refs": [
+        "iwm"
+      ],
+      "locator": "Indian Movietone News No. 9, INR 9",
+      "quote": "The same arm that fights Fascism today SHALL free India tomorrow",
+      "place": "Lucknow"
+    },
+    {
+      "id": "kanpur-film",
+      "regions": [
+        "Uttar Pradesh"
+      ],
+      "date": "By February 1943",
+      "year": 1943,
+      "title": "Savarkar’s Kanpur appeal in the same newsreel",
+      "people": [
+        "V. D. Savarkar"
+      ],
+      "topic": "Savarkar’s scheme",
+      "status": "Primary text inspected",
+      "claim": "The reel separately covers Savarkar’s militarisation appeal at Kanpur.",
+      "limit": "Juxtaposition in a newsreel does not establish cooperation between Roy and Savarkar.",
+      "refs": [
+        "iwm"
+      ],
+      "locator": "Indian Movietone News No. 9, INR 9",
+      "quote": "",
+      "place": "Cawnpore / Kanpur"
+    },
+    {
+      "id": "faiz-service",
+      "regions": [
+        "Punjab — historical & cross-border"
+      ],
+      "date": "1945 record; interview March 1984",
+      "year": 1945,
+      "title": "Faiz Ahmed Faiz’s wartime army service",
+      "people": [
+        "Faiz Ahmed Faiz"
+      ],
+      "topic": "Military service & later outcomes",
+      "status": "Primary text inspected",
+      "claim": "The official honours record lists Faiz as Captain, temporary Major, Indian Army. He later acknowledged joining in an interview with I. A. Rehman.",
+      "limit": "Shows personal service by a Marxist intellectual, not a Savarkar-inspired enlistment or his own recruiting campaign. Punjab here is a historical association, not a modern Indian-state service location.",
+      "refs": [
+        "faizGazette",
+        "faizInterview"
+      ],
+      "locator": "London Gazette supplement 36866, p. 14; Herald, March 1984",
+      "quote": "",
+      "place": ""
+    },
+    {
+      "id": "paranjpe-rifles",
+      "regions": [
+        "Maharashtra"
+      ],
+      "date": "Account in 1948 statement",
+      "year": 1948,
+      "title": "R. P. Paranjpe and Poona rifle clubs",
+      "people": [
+        "R. P. Paranjpe",
+        "Narayan Apte",
+        "V. D. Savarkar"
+      ],
+      "topic": "Savarkar’s scheme",
+      "status": "Primary retrospective",
+      "claim": "Savarkar’s written defence says Paranjpe presided over a meeting of rifle clubs organised by Apte.",
+      "limit": "Interested defence testimony; seek club records or contemporary reporting. Do not classify Paranjpe as Congress, communist or socialist on this basis.",
+      "refs": [
+        "written"
+      ],
+      "locator": "Section 10, Apte, Godse and their correspondence",
+      "quote": "",
+      "place": "Poona / Pune"
+    },
+    {
+      "id": "tandon-force",
+      "regions": [
+        "Uttar Pradesh"
+      ],
+      "date": "6 July 1940",
+      "year": 1940,
+      "title": "Tandon and a National Defence Force",
+      "people": [
+        "Purushottam Das Tandon",
+        "Krishna Kant Malaviya"
+      ],
+      "topic": "Volunteer organisations",
+      "status": "Archive lead",
+      "claim": "Gould traces a discussion concerning a National Defence Force.",
+      "limit": "UP police abstract original uninspected; no direct Savarkar endorsement established.",
+      "refs": [
+        "gould"
+      ],
+      "locator": "UP police abstracts cited by Gould",
+      "quote": "",
+      "place": ""
+    },
+    {
+      "id": "tandon-camps",
+      "regions": [
+        "Uttar Pradesh"
+      ],
+      "date": "August 1945–February 1946",
+      "year": 1945,
+      "title": "Tandon’s reported weapons-training camps",
+      "people": [
+        "Purushottam Das Tandon"
+      ],
+      "topic": "Volunteer organisations",
+      "status": "Archive lead",
+      "claim": "Scholarship identifies camps at Allahabad, Baraon and Rae Bareli.",
+      "limit": "Obtain the police abstracts before treating activities or weapons as independently authenticated.",
+      "refs": [
+        "gould"
+      ],
+      "locator": "Police abstracts: 24 August and 28 December 1945; 1 March 1946",
+      "quote": "",
+      "place": "Allahabad, Baraon, Rae Bareli"
+    },
+    {
+      "id": "tandon-dal",
+      "regions": [
+        "Uttar Pradesh"
+      ],
+      "date": "June–August 1947",
+      "year": 1947,
+      "title": "Hind Rakshak Dal and correspondence",
+      "people": [
+        "Purushottam Das Tandon"
+      ],
+      "topic": "Volunteer organisations",
+      "status": "Archive lead",
+      "claim": "The trail includes the National Herald report on Hind Rakshak Dal and Student Congress Corps correspondence.",
+      "limit": "Postwar material; not proof of British-army recruitment.",
+      "refs": [
+        "gould",
+        "gouldPublished"
+      ],
+      "locator": "National Herald, 18 June 1947; Tandon Papers file 93, NAI, letter 3 August 1947",
+      "quote": "",
+      "place": ""
+    },
+    {
+      "id": "andhra-socialist",
+      "regions": [
+        "Andhra Pradesh",
+        "Uttar Pradesh"
+      ],
+      "date": "22 June 1947",
+      "year": 1947,
+      "title": "Parthasarathy’s socialist support letter",
+      "people": [
+        "Parthasarathy"
+      ],
+      "topic": "Volunteer organisations",
+      "status": "Archive lead",
+      "claim": "Gould’s note identifies an Andhra Socialist Party letter supporting Tandon’s Hind Rakshak Dal.",
+      "limit": "Original uninspected; postwar, and not an endorsement of Savarkar’s scheme.",
+      "refs": [
+        "gouldPublished"
+      ],
+      "locator": "Tandon Papers file 8, NAI; article note 70",
+      "quote": "",
+      "place": ""
+    },
+    {
+      "id": "congress-volunteers",
+      "regions": [
+        "Uttar Pradesh"
+      ],
+      "date": "1938–1939",
+      "year": 1938,
+      "title": "Congress volunteers: three further named leads",
+      "people": [
+        "Sampurnanand",
+        "R. S. Pandit",
+        "Nand Kumar Deo Vashishta"
+      ],
+      "topic": "Volunteer organisations",
+      "status": "Archive lead",
+      "claim": "Volunteer-movement reports are relevant to military-style training associated with these names.",
+      "limit": "Establish armed training separately from drill for each person.",
+      "refs": [
+        "gould"
+      ],
+      "locator": "India Office Records L/P&J/8/678, volunteer reports 1938–39",
+      "quote": "",
+      "place": ""
+    },
+    {
+      "id": "patwardhan-warning",
+      "regions": [
+        "National & overseas"
+      ],
+      "date": "27 April 1942",
+      "year": 1942,
+      "title": "Achyut Patwardhan warns against unconditional cooperation",
+      "people": [
+        "Achyut Patwardhan"
+      ],
+      "topic": "Limits & counterevidence",
+      "status": "Primary text inspected",
+      "claim": "Working Committee minutes record his warning against drifting into unconditional cooperation with British machinery.",
+      "limit": "Communist war policy cannot establish a general socialist endorsement.",
+      "refs": [
+        "working"
+      ],
+      "locator": "Working Committee discussions on war resolution",
+      "quote": "",
+      "place": ""
+    },
+    {
+      "id": "dangerous-friend",
+      "regions": [
+        "Maharashtra"
+      ],
+      "date": "13 August 1940",
+      "year": 1940,
+      "title": "A contemporary note calls Savarkar a dangerous ally",
+      "people": [
+        "V. D. Savarkar"
+      ],
+      "topic": "Limits & counterevidence",
+      "status": "Primary text inspected",
+      "claim": "The Patel-papers note distinguishes temporary alliance from lasting allegiance and describes Savarkar as anti-British.",
+      "limit": "Authorship unclear. The preceding Lumley interview is a separate document; do not date this note to 1942 or call it Lumley’s report.",
+      "refs": [
+        "nai",
+        "naiViewer"
+      ],
+      "locator": "PP_000000005413, viewer pp. 11–12; Bombay, 13-8-1940",
+      "quote": "A temporary ally—but a dangerous friend.",
+      "place": "Bombay / Mumbai"
+    },
+    {
+      "id": "gore-inspiration",
+      "regions": [
+        "Maharashtra",
+        "Jammu & Kashmir"
+      ],
+      "date": "1995 service death; testimony 26 February 2025",
+      "year": 1995,
+      "title": "Captain Vinayak Gore: named family attribution",
+      "people": [
+        "Captain Vinayak Gore",
+        "Anuradha Gore"
+      ],
+      "topic": "Military service & later outcomes",
+      "status": "Reported testimony",
+      "claim": "His mother attributed his military inspiration to reading Savarkar as a schoolboy. A 2009 family profile records his death serving at Kupwara in 1995.",
+      "limit": "A later-generation example. Reported family testimony, not Gore’s own statement; cannot establish a WWII recruitment-to-independence chain.",
+      "refs": [
+        "gore",
+        "harmony",
+        "honour"
+      ],
+      "locator": "Dadar speech report, 26 February 2025; Harmony, October 2009, p. 88",
+      "quote": "माझ्या मुलानेही शाळकरी वयातच वीर सावरकरांची अनेक पुस्तके वाचल्याने त्याला सैन्यात भरती होण्याची प्रेरणा मिळाली.",
+      "place": "Dadar / Mumbai; Kupwara"
+    },
+    {
+      "id": "shah-nawaz",
+      "regions": [
+        "Delhi"
+      ],
+      "date": "7 December 1945 proceedings",
+      "year": 1945,
+      "title": "Shah Nawaz Khan chooses allegiance to India",
+      "people": [
+        "Shah Nawaz Khan"
+      ],
+      "topic": "Military service & later outcomes",
+      "status": "Primary text inspected",
+      "claim": "The defendant explained choosing India over allegiance to the King.",
+      "limit": "No verified attribution of his original enlistment to Savarkar.",
+      "refs": [
+        "trial",
+        "trialText"
+      ],
+      "locator": "Two Historic Trials in Red Fort, printed p. 110",
+      "quote": "I decided to be loyal to my country",
+      "place": "Red Fort, Delhi"
+    },
+    {
+      "id": "sahgal",
+      "regions": [
+        "Delhi"
+      ],
+      "date": "7 December 1945 proceedings",
+      "year": 1945,
+      "title": "P. K. Sahgal: liberation without Japanese domination",
+      "people": [
+        "P. K. Sahgal"
+      ],
+      "topic": "Military service & later outcomes",
+      "status": "Primary text inspected",
+      "claim": "His statement argued for an organised force capable of liberating India and resisting Japanese replacement of British rule.",
+      "limit": "No verified Savarkar recruitment link. The trial text gives his first commission as 1 February 1939.",
+      "refs": [
+        "trial",
+        "trialText"
+      ],
+      "locator": "Printed pp. 114–115",
+      "quote": "",
+      "place": "Red Fort, Delhi"
+    },
+    {
+      "id": "dhillon",
+      "regions": [
+        "Delhi"
+      ],
+      "date": "7 December 1945 proceedings",
+      "year": 1945,
+      "title": "G. S. Dhillon reconsiders British allegiance",
+      "people": [
+        "G. S. Dhillon"
+      ],
+      "topic": "Military service & later outcomes",
+      "status": "Primary text inspected",
+      "claim": "His account describes disillusionment following Singapore and a country-first rationale.",
+      "limit": "Firsthand anti-colonial motivation, not evidence of Savarkar-inspired enlistment.",
+      "refs": [
+        "trial",
+        "trialText"
+      ],
+      "locator": "Printed p. 118",
+      "quote": "I felt like one deserted by the British.",
+      "place": "Red Fort, Delhi"
+    },
+    {
+      "id": "nehru-ina-recognition",
+      "regions": [
+        "National & overseas"
+      ],
+      "date": "17 January 1946",
+      "year": 1946,
+      "title": "Nehru recognises the INA trials’ national significance",
+      "people": [
+        "Jawaharlal Nehru"
+      ],
+      "topic": "Freedom & military unrest",
+      "status": "Primary text inspected",
+      "claim": "His foreword treats public response to the trials as a political victory with implications for imperial rule.",
+      "limit": "Recognition of the INA is not a statement about Savarkar’s recruitment.",
+      "refs": [
+        "nehruINA"
+      ],
+      "locator": "Selected Works, first series, vol. 14, pp. 371–373",
+      "quote": "",
+      "place": ""
+    },
+    {
+      "id": "nehru-menon",
+      "regions": [
+        "National & overseas"
+      ],
+      "date": "2 December 1945",
+      "year": 1945,
+      "title": "Nehru’s contemporary letter on the INA response",
+      "people": [
+        "Jawaharlal Nehru",
+        "V. K. Krishna Menon"
+      ],
+      "topic": "Freedom & military unrest",
+      "status": "Primary text inspected",
+      "claim": "Nehru discussed broad public support and the government’s misjudgment of the trials.",
+      "limit": "Evidence of contemporary political reaction; not direct enlistment causation.",
+      "refs": [
+        "nehruMenon"
+      ],
+      "locator": "Letter to V. K. Krishna Menon",
+      "quote": "",
+      "place": ""
+    },
+    {
+      "id": "rin-talwar",
+      "regions": [
+        "Maharashtra"
+      ],
+      "date": "18–22 February 1946",
+      "year": 1946,
+      "title": "Talwar and the political naval revolt",
+      "people": [
+        "Clement Attlee",
+        "RIN ratings"
+      ],
+      "topic": "Freedom & military unrest",
+      "status": "Primary text inspected",
+      "claim": "Attlee reported refusal of duty at Talwar, political slogans, expansion across establishments and roughly 7,000 ratings involved by 20 February.",
+      "limit": "Official immediate report, not an exhaustive participant account; no Savarkar attribution.",
+      "refs": [
+        "attleeRIN"
+      ],
+      "locator": "HC Deb, 22 February 1946, vol. 419, cols. 1441–1443",
+      "quote": "",
+      "place": "Bombay / Mumbai"
+    },
+    {
+      "id": "rin-calcutta",
+      "regions": [
+        "West Bengal"
+      ],
+      "date": "February 1946",
+      "year": 1946,
+      "title": "The revolt reaches Hooghly at Calcutta",
+      "people": [
+        "RIN ratings"
+      ],
+      "topic": "Freedom & military unrest",
+      "status": "Primary text inspected",
+      "claim": "The same parliamentary statement records unrest involving 120 ratings at Hooghly, Calcutta.",
+      "limit": "Do not conflate the event’s spread with proof of a particular organisation’s recruitment role.",
+      "refs": [
+        "attleeRIN"
+      ],
+      "locator": "HC Deb, 22 February 1946, vol. 419",
+      "quote": "",
+      "place": "Calcutta / Kolkata"
+    },
+    {
+      "id": "wavell-assessment",
+      "regions": [
+        "National & overseas"
+      ],
+      "date": "22 March 1946",
+      "year": 1946,
+      "title": "Wavell reports service unrest to the King",
+      "people": [
+        "Archibald Wavell",
+        "King George VI"
+      ],
+      "topic": "Freedom & military unrest",
+      "status": "Primary text inspected",
+      "claim": "His despatch discusses RIN revolt, air-force indiscipline and army unrest, including technical arms.",
+      "limit": "He nevertheless considered most of the army sound. Primary despatch read through a later reproduction.",
+      "refs": [
+        "navy"
+      ],
+      "locator": "Transfer of Power VI, document 545, pp. 1232–1237; reproduced pp. 79–80",
+      "quote": "the great mass of the Indian Army is still sound",
+      "place": ""
+    },
+    {
+      "id": "aruna-networks",
+      "regions": [
+        "National & overseas"
+      ],
+      "date": "After 1942; recalled in 1982",
+      "year": 1982,
+      "title": "Aruna Asaf Ali describes socialist service contacts",
+      "people": [
+        "Aruna Asaf Ali"
+      ],
+      "topic": "Freedom & military unrest",
+      "status": "Primary retrospective",
+      "claim": "She recalled underground Congress socialist contacts with servicemen and encouragement of collective resistance.",
+      "limit": "Late participant memory; identifies another political route into the services, without crediting Savarkar.",
+      "refs": [
+        "navy"
+      ],
+      "locator": "Under Two Ensigns, pp. 80–82; material supplied in 1982",
+      "quote": "",
+      "place": ""
+    },
+    {
+      "id": "dutt-memoir",
+      "regions": [
+        "Maharashtra"
+      ],
+      "date": "1946 events; memoir 1971",
+      "year": 1971,
+      "title": "B. C. Dutt’s participant memoir",
+      "people": [
+        "B. C. Dutt",
+        "K. M. Cariappa"
+      ],
+      "topic": "Freedom & military unrest",
+      "status": "Primary retrospective",
+      "claim": "Dutt described naval training, racial hierarchy and political awakening; the naval history reproduces his recollection of Cariappa’s advice about future national service.",
+      "limit": "Preview incomplete; no verified Savarkar enlistment attribution found.",
+      "refs": [
+        "dutt",
+        "navy"
+      ],
+      "locator": "Memoir pp. 63–69; naval history pp. 70–72",
+      "quote": "",
+      "place": "Bombay naval revolt"
+    },
+    {
+      "id": "madan-interview",
+      "regions": [
+        "Maharashtra"
+      ],
+      "date": "1946 events; interview 1982",
+      "year": 1982,
+      "title": "Madan Singh’s account of the naval strike",
+      "people": [
+        "Madan Singh"
+      ],
+      "topic": "Freedom & military unrest",
+      "status": "Primary retrospective",
+      "claim": "The strike committee vice-president’s later interview provides a participant account of grievances.",
+      "limit": "No verified Savarkar link.",
+      "refs": [
+        "navy"
+      ],
+      "locator": "Under Two Ensigns, pp. 72–73",
+      "quote": "",
+      "place": "Bombay / Mumbai"
+    },
+    {
+      "id": "attlee-nationalism",
+      "regions": [
+        "National & overseas"
+      ],
+      "date": "15 March 1946",
+      "year": 1946,
+      "title": "Attlee acknowledges nationalism among wartime soldiers",
+      "people": [
+        "Clement Attlee"
+      ],
+      "topic": "Freedom & military unrest",
+      "status": "Primary text inspected",
+      "claim": "In explaining the Cabinet Mission, Attlee acknowledged spreading nationalism among wartime servicemen and war’s acceleration of political aspirations.",
+      "limit": "Does not identify Savarkar as the cause or establish military unrest as the sole cause of withdrawal.",
+      "refs": [
+        "attleeMarch"
+      ],
+      "locator": "HC Deb vol. 420, cols. 1420–1421",
+      "quote": "not least, perhaps, among some of those soldiers who have given such wonderful service in the war.",
+      "place": "House of Commons, London"
+    },
+    {
+      "id": "rin-report-lead",
+      "regions": [
+        "National & overseas"
+      ],
+      "date": "1946",
+      "year": 1946,
+      "title": "RIN Commission of Enquiry: original report to inspect",
+      "people": [
+        "RIN Commission"
+      ],
+      "topic": "Archive follow-up",
+      "status": "Archive lead",
+      "claim": "The catalogue identifies the commission report and a route to evidence and appendices.",
+      "limit": "Full original uninspected; later extracts do not substitute for the entire record.",
+      "refs": [
+        "rinCommission"
+      ],
+      "locator": "British Library IOR/L/MIL/17/9/379",
+      "quote": "",
+      "place": ""
+    },
+    {
+      "id": "auchinleck-minute",
+      "regions": [
+        "National & overseas"
+      ],
+      "date": "12 February 1946",
+      "year": 1946,
+      "title": "Auchinleck’s review of the first INA trial",
+      "people": [
+        "Claude Auchinleck"
+      ],
+      "topic": "Archive follow-up",
+      "status": "Archive lead",
+      "claim": "Scholarship identifies a strictly personal and secret minute relevant to military nationalism.",
+      "limit": "Original three-page document uninspected; do not quote it as personally verified.",
+      "refs": [
+        "auchinleck"
+      ],
+      "locator": "Rees Papers, British Library MSS Eur/F274/95",
+      "quote": "",
+      "place": ""
+    },
+    {
+      "id": "auchinleck-letter",
+      "regions": [
+        "National & overseas"
+      ],
+      "date": "16 January 1946",
+      "year": 1946,
+      "title": "Auchinleck to Wavell on military reliability",
+      "people": [
+        "Claude Auchinleck",
+        "Archibald Wavell"
+      ],
+      "topic": "Archive follow-up",
+      "status": "Archive lead",
+      "claim": "A specific published-document reference concerns the army in a political confrontation.",
+      "limit": "Original passage still requires direct inspection.",
+      "refs": [
+        "auchinleck"
+      ],
+      "locator": "Transfer of Power VI, around p. 808",
+      "quote": "",
+      "place": ""
+    },
+    {
+      "id": "garnett-earlier",
+      "regions": [
+        "National & overseas"
+      ],
+      "date": "1909 events; memoir 1953/1954",
+      "year": 1909,
+      "title": "An earlier attempt to acquire military experience abroad",
+      "people": [
+        "V. D. Savarkar",
+        "David Garnett",
+        "Sukhsagar Dutt"
+      ],
+      "topic": "Earlier precedents",
+      "status": "Primary retrospective",
+      "claim": "Garnett recalled Savarkar encouraging two young Indians to seek experience in the Moroccan conflict; the journey failed to reach its intended force.",
+      "limit": "Not successful military recruitment or WWII evidence. Memoir chronology needs care; the excerpt does not securely identify the second volunteer.",
+      "refs": [
+        "garnett"
+      ],
+      "locator": "The Golden Echo; edition-dependent pagination",
+      "quote": "",
+      "place": "London / Gibraltar / Morocco"
+    },
+    {
+      "id": "bose-broadcast",
+      "regions": [
+        "National & overseas"
+      ],
+      "date": "Claimed 25 June 1944",
+      "year": 1944,
+      "title": "The circulated Bose broadcast praise remains unverified",
+      "people": [
+        "Subhas Chandra Bose"
+      ],
+      "topic": "Limits & counterevidence",
+      "status": "Unverified",
+      "claim": "A quotation praising Savarkar’s recruitment circulates in later accounts.",
+      "limit": "No authenticated broadcast transcript, recording or secure collected-works passage found. Bose’s own account of their 1940 meeting is critical.",
+      "refs": [
+        "bose"
+      ],
+      "locator": "The Indian Struggle, part II; original broadcast source not located",
+      "quote": "",
+      "place": ""
+    },
+    {
+      "id": "rifle-direction",
+      "regions": [
+        "National & overseas"
+      ],
+      "date": "Wartime attribution; date unestablished",
+      "year": null,
+      "title": "The rifle-direction quotation lacks an authenticated original",
+      "people": [
+        "V. D. Savarkar"
+      ],
+      "topic": "Limits & counterevidence",
+      "status": "Unverified",
+      "claim": "The wording about training first and later choosing where to point rifles was investigated.",
+      "limit": "No dated original speech or contemporary transcript authenticated; do not treat it as an established verbatim quotation.",
+      "refs": [
+        "hrd",
+        "historic"
+      ],
+      "locator": "Circulated wording not located in an authenticated original",
+      "quote": "",
+      "place": ""
+    },
+    {
+      "id": "patel-wwii",
+      "regions": [
+        "National & overseas"
+      ],
+      "date": "WWII attribution",
+      "year": null,
+      "title": "Patel’s alleged endorsement of Savarkar’s WWII scheme",
+      "people": [
+        "Vallabhbhai Patel"
+      ],
+      "topic": "Limits & counterevidence",
+      "status": "Unverified",
+      "claim": "The research established Patel’s role in the 1918 campaign, not the circulated WWII endorsement.",
+      "limit": "Keep the two wars and their political settings separate.",
+      "refs": [
+        "gandhiAuto"
+      ],
+      "locator": "Verified precedent: autobiography, part V, chapter 27",
+      "quote": "",
+      "place": ""
+    },
+    {
+      "id": "direct-chain",
+      "regions": [
+        "National & overseas"
+      ],
+      "date": "Research finding",
+      "year": null,
+      "title": "The direct wartime recruit-to-Savarkar chain remains open",
+      "people": [
+        "INA and RIN participants"
+      ],
+      "topic": "Limits & counterevidence",
+      "status": "Unverified",
+      "claim": "No additional wartime individual was verified across all three links: Savarkar-inspired enlistment, documented service and later anti-colonial action.",
+      "limit": "British training followed by anti-colonial action is documented; its attribution to Savarkar must be established person by person.",
+      "refs": [
+        "trial",
+        "navy",
+        "historic"
+      ],
+      "locator": "Cross-source comparison; absence of verification is not proof of absence",
+      "quote": "",
+      "place": ""
+    },
+    {
+      "id": "sole-cause",
+      "regions": [
+        "National & overseas"
+      ],
+      "date": "1946–1947 causal interpretation",
+      "year": 1946,
+      "title": "Military unrest as pressure, rather than an established sole cause",
+      "people": [
+        "British decision-makers",
+        "Indian servicemen"
+      ],
+      "topic": "Limits & counterevidence",
+      "status": "Unverified",
+      "claim": "Contemporary records support concern about military nationalism and unrest.",
+      "limit": "They do not establish that the revolts alone secured independence, or that Savarkar caused them. British RAF strikes and Indian RIAF unrest must also be distinguished.",
+      "refs": [
+        "attleeMarch",
+        "attleeRIN",
+        "navy"
+      ],
+      "locator": "Causal limit across the cited documents",
+      "quote": "",
+      "place": ""
+    },
+    {
+      "id": "rao-sidelined",
+      "regions": [
+        "National & overseas"
+      ],
+      "date": "Attributed 31 May 1946",
+      "year": 1946,
+      "title": "K. N. Rao letter: retained only as a sidelined lead",
+      "people": [
+        "K. N. Rao"
+      ],
+      "topic": "Archive follow-up",
+      "status": "Sidelined",
+      "claim": "A reproduction was investigated before the user asked that the letter be set aside.",
+      "limit": "Original archival authentication unfinished. No evidentiary claim is drawn from the letter here; retained only for completeness of the research trail.",
+      "refs": [
+        "raoLead"
+      ],
+      "locator": "Reproduction and attribution, not an authenticated archival original",
+      "quote": "",
+      "place": ""
+    }
+  ]
+}
